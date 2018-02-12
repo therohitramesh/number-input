@@ -1,0 +1,15 @@
+body{
+  background-color: #336B87;
+}
+
+p{
+  color: #ffffff;
+}
+
+.box{
+  background-color: #2A3132;
+  text-align: center;
+  vertical-align: middle;
+  padding: 100px;
+  margin: 200px;
+}
